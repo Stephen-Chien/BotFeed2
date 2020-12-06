@@ -1,6 +1,6 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: BotFeed
+title: BotFeed | A sience blog
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -19,18 +19,16 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: stephenlchien@gmail.com
 disqus_username: disqus_username
 
 
-# Social Media Settings
+ Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+github_username: Stephen-Chien
 instagram_username: instagram_username
 linkedin_username: linkedin_username
-medium_username: medium_username
+medium_username: medium_username#
 
 
 # Posts Settings
@@ -41,7 +39,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/BotFeed" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
