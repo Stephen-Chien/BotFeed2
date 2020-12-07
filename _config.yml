@@ -1,14 +1,10 @@
 # Site Settings
 name: BotFeed
-title: BotFeed | A sience blog
+title: BotFeed | A science blog for students, by students
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
 show_hero: true
 menu:
   - title: Home
@@ -26,9 +22,7 @@ disqus_username: disqus_username
  Social Media Settings
 # Remove the item if you don't need it
 github_username: Stephen-Chien
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username#
+
 
 
 # Posts Settings
