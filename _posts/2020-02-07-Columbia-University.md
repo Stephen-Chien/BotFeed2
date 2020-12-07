@@ -3,7 +3,7 @@ date: 2020-02-07 12:26:40
 layout: post
 title: Code Sleep Repeat at Columbia University
 image: https://res.cloudinary.com/dohsdvjjj/image/upload/v1607305672/columbia-university.jpg
-optimized_image: https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607305732/chenyu-guan-XgcdAE1Gqlg-unsplash_1_mxkiv1.jpg
+optimized_image: https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607305672/columbia-university.jpg
 category: blog
 tags:
   - science
@@ -12,7 +12,7 @@ tags:
 author: stephenchien
 ---
 
-## Columbia University
+## Columbia University Experience
 
 By the end of my freshman year, having signed up for several coding camps, I was ready to code. Robotics had inspired me to learn as many coding languages as I could, so I signed up for was Code Sleep Repeat at Columbia University. I first heard about the camp through a school-wide email that promoted it. Code Sleep Repeat is a one week, intensive camp that involves learning Swift: a programming language developed by Apple to create iOS apps on iPhone, iPad, and Mac. The program was held at Columbia University. 
 

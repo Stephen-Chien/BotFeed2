@@ -2,14 +2,13 @@
 date: 2020-02-02 12:26:40
 layout: post
 title: The Future of Women in CS
-subtitle: 
 description: >-
   Continued Exclusion or Diversification?
 image: >-
   https://res.cloudinary.com/dohsdvjjj/image/upload/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,q_100,w_380/v1607305193/optimized-kelly.jpg
-category: blog
+  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
+category: science
 tags:
   - welcome
   - blog
