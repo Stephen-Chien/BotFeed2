@@ -1,11 +1,11 @@
 ---
 date: 2021-03-10 12:26:40
 layout: post
-title: When Computers Defeated Humans Through Creative Thinking
+title: When Computers Defeated Humans Through Creative Thinking - AlphaGo
 image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/v1607308219/image3_wxmsjo.png
+  https://res.cloudinary.com/dohsdvjjj/image/upload/v1617656473/download_2_so3yix.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607308219/image3_wxmsjo.png
+  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1617656473/download_2_so3yix.jpg
 category: robotics
 tags:
   - science

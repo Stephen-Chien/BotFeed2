@@ -5,9 +5,9 @@ title: Summer Engineering at NYU
 description: >-
    Tandon School of Engineering
 image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
+  https://res.cloudinary.com/dohsdvjjj/image/upload/v1617656449/nyu_v4cp8o.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
+  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1617656449/nyu_v4cp8o.jpg
 category: science
 tags:
   - blog

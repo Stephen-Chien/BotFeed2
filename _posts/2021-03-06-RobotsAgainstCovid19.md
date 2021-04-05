@@ -5,9 +5,9 @@ title: Robots Against Covid-19
 description: >-
    How Robotics could affect Covid
 image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
+  https://res.cloudinary.com/dohsdvjjj/image/upload/v1617656453/robots_b0afek.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
+  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1617656453/robots_b0afek.jpg
 category: science
 tags:
   - blog

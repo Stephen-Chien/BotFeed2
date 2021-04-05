@@ -3,9 +3,9 @@ date: 2020-03-11 12:26:40
 layout: post
 title: Feminist AI
 image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/v1607308219/image3_wxmsjo.png
+  https://res.cloudinary.com/dohsdvjjj/image/upload/v1617656602/download_3_du0b90.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607308219/image3_wxmsjo.png
+  https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1617656602/download_3_du0b90.jpg
 category: robotics
 tags:
   - science
