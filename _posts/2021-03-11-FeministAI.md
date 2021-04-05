@@ -1,5 +1,5 @@
 ---
-date: 2020-01-19 12:26:40
+date: 2020-03-11 12:26:40
 layout: post
 title: Feminist AI
 image: >-

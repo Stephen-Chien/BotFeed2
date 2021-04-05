@@ -14,16 +14,6 @@ tags:
 author: winstonchien
 paginate: true
 ---
-March 9, 2021
-
-Mars Rover
-
-
-Robots Against Covid-19
-By: Winston Chien
-
-Introduction
-
 Without a doubt, the Covid-19 pandemic has created many obstacles and inconveniences in our lives, within the past year. This virus has caused a severe loss of human life, including many people that are significant to us. (Approximately 2.58 million people have died from Covid.) Covid has also presented us with many different economic and social challenges. For instance, 1.6 billion workers have been placed in immediate danger of losing their jobs. This shockingly high figure accounts for half of the workforce, which consists of workers that are part of the "informal economy." The informal economy comprises of migrant workers and people who hold unstable, manual labor jobs. These workers/individuals are the most vulnerable, since many of them don't have access to quality health care. Furthermore, millions of enterprises and businesses have been shut down to minimize financial loss. The lack of customers, combined with operational costs, has made it very difficult for businesses to thrive during this period. Many more devastating effects of Covid could be stated, although it is not necessary to include them in this article.  
 
 The Role of Robots During This Pandemic 
