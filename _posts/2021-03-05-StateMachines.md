@@ -1,18 +1,34 @@
 ---
-date: 2021-03-06 12:26:40
+date: 2021-03-05 12:26:40
 layout: post
-title: Summer Engineering at NYU
-description: >-
-   Tandon School of Engineering
+title: A Guide To All Things States - The Development Philosophy Behind State Machines
 image: >-
   https://res.cloudinary.com/dohsdvjjj/image/upload/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
 optimized_image: >-
   https://res.cloudinary.com/dohsdvjjj/image/upload/c_scale,w_380/v1607304240/kelly-sikkema-YK0HPwWDJ1I-unsplash_ywtauy.jpg
-category: science
+category: robotics
 tags:
-  - blog
-author: jackkomaroff
+  - science
+author: lawsonwright, brandonpae
 paginate: true
 ---
 
-This past summer I attended a two week virtual STEM course at NYU’s Tandon School of Engineering. This course focused on IoT (internet of things) and connected devices. We learned about circuitry through the Arduino board and we practiced interfacing with the cloud with Adafruit.io. This great website allowed us to connect our arduino circuit designs with our C++ code and interface with real world appliances such as light bulbs, temperature sensors, humidity detector, motors, etc. Half of the time was spent on creating elegant code, building our arduino circuit designs, and combining the two to form our IoT systems, and the other half was a lecture based college level class. The professor taught us about circuit diagrams, MISO/MOSI, SPI, and a host of other topics related to the theme of connected devices. At the end of the course we designed our own custom weather stations that pulled information from the web and displayed it on our mini touch screen devices. We used an arduino ESP featerwing with the TFT touchscreen to display images, information, text, and allow the user to interact with the system and have the code react to their finger placements. 
+
+What are State Machines?
+	
+  
+  A state machine is a method of representing the status of a robot at a given point. The robot’s immediate state is changed based on certain inputs, often called conditions or events. For instance, if a robot is in a forward drive state and moving forward, but a range sensor indicates that the robot is less than 12 inches away from a wall, the robot transitions from a forward drive state to a turn drive state, so that the robot can turn away from the wall. State machines are highly useful in FTC’s autonomous period as they are an effective way to map the actions that a robot should perform in a given program and it is relatively straightforward to define the events that will make the robot transition from one state to the next.
+
+![picture](https://res.cloudinary.com/dohsdvjjj/image/upload/v1617655359/ok_fceajc.png)
+
+What Makes a State Machine Good?
+
+	Making a “good” state machine is not only highly subjective, but also widely debated. While each team should create one that works best for them, we nevertheless are going to try and provide some useful pointers and tips that we think would benefit all teams. First, make sure your code is structured and framed well. FTC generally uses Java for their code, which makes enforcing a rigid and uniform structure amongst states very easy. Teams should take advantage of either interfaces or abstract classes in order to define the universal functionality of each state and the exact implementation later on. For example, an interface could specify that each state must have three methods: start, update, and stop. When someone makes a new state, they just need to define what happens in these three methods. This means that all states will have the exact same functionality -- they can start, update, and stop. Furthermore, this means that some element of your code might not know how a state functions, or even what type of state it is, but it still can call those three basic methods to make it work. Another tip that teams using state machines should consider is auxiliary helper classes. If you have two states that are pretty similar and both to a similar task, consider making a new class to handle that task. This way, each state can call that class. As a general rule of thumb, you do not want to have any duplicate code because doing so makes it less organized, more prone to breaking, and harder to iterate. In conclusion, state machines can be a powerful tool for any robotics team and there are many ways to design an effective and efficient state machine system. 
+
+
+
+
+
+
+
+
